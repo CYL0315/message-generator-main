@@ -1,0 +1,26 @@
+* {
+  font-family: 'Nunito Sans';
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  padding: 3px;
+  background-color: #fff;
+}
+
+.title {
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.cotnet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+
